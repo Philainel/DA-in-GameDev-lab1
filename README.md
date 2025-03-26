@@ -50,8 +50,6 @@
 
 Установить Anaconda и запустить в Jupyter Notebook проект Hello World!
 
-![hello-world-anaconda-ipynb](hello-world-anaconda-ipynb.png)
-
 ```py
 # %%
 print("Hello, World!")
@@ -59,12 +57,11 @@ print("Hello, World!")
 # %%
 ```
 
+![hello-world-anaconda-ipynb](hello-world-anaconda-ipynb.png)
+
 ## Задание 2
 
 ### Написать программу Hello World на C# с запуском на Unity
-
-![hello-world-rider-project](hello-world-rider-project.png)
-![hello-world-unity-scene](hello-world-unity-scene.png)
 
 ```cs
 using UnityEngine;
@@ -85,12 +82,14 @@ public class HelloWorld : MonoBehaviour
 }
 ```
 
+![hello-world-rider-project](hello-world-rider-project.png)
+![hello-world-unity-scene](hello-world-unity-scene.png)
+
 ## Задание 3
 
 ### Оформить отчет в виде документации на github (markdown-разметка)
 
 [Отчёт](https://github.com/Philainel/DA_in-GameDev-lab1) оформлен
-3
 
 В процессе работы я установил среду Anaconda, открыл Jupyter Notebook, а так-же запустил в нём программу Hello, World на языке Python. Затем, я установил Unity Hub, загрузил в нём редактор Unity 6 и создал пустой 3D проект. В нем, с помощью IDE Rider я написал скрипт для игрового объекта, который при старте пишет в консоль строку "Hello, World!".
 
