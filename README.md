@@ -91,6 +91,8 @@ public class HelloWorld : MonoBehaviour
 
 [Отчёт](https://github.com/Philainel/DA_in-GameDev-lab1) оформлен
 
+## Вывод
+
 В процессе работы я установил среду Anaconda, открыл Jupyter Notebook, а так-же запустил в нём программу Hello, World на языке Python. Затем, я установил Unity Hub, загрузил в нём редактор Unity 6 и создал пустой 3D проект. В нем, с помощью IDE Rider я написал скрипт для игрового объекта, который при старте пишет в консоль строку "Hello, World!".
 
 | Plugin | README |
